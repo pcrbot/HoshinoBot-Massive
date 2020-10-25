@@ -42,4 +42,20 @@ MODULES_ON = {
     # 'setu',
     # 'translate',
     # 'twitter',
+
+    # 以下是社区插件
+    'yobot',
+    'plugins_for_Hoshino.shebot',
+    'Genshin_Impact_bot',
+    'music',
+    'erinilis_modules.eclanblack',
+    'erinilis_modules.eclanrank',
+    'erinilis_modules.epixiv',
+    'erinilis_modules.eqa',
+    'cappuccilo_plugins.generator',
+    'cappuccilo_plugins.picfinder',
+    'cappuccilo_plugins.traceanime',
+    'pcr_wiki.wiki',
+    'image_generate.image-generate',
+    'xhl6666_groupmaster',
 }

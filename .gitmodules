@@ -1,0 +1,27 @@
+[submodule "hoshino/modules/yobot/yobot"]
+	path = hoshino/modules/yobot/yobot
+	url = https://github.com/pcrbot/yobot.git
+[submodule "plugins_for_Hoshino"]
+	path = hoshino/modules/plugins_for_Hoshino
+	url = https://github.com/pcrbot/plugins-for-Hoshino.git
+[submodule "hoshino/modules/Genshin_Impact_bot/Genshin_Impact_bot"]
+	path = hoshino/modules/Genshin_Impact_bot/Genshin_Impact_bot
+	url = https://github.com/pcrbot/Genshin_Impact_bot.git
+[submodule "hoshino/modules/music"]
+	path = hoshino/modules/music
+	url = https://github.com/pcrbot/music.git
+[submodule "hoshino/modules/erinilis_modules"]
+	path = hoshino/modules/erinilis_modules
+	url = https://github.com/pcrbot/erinilis-modules
+[submodule "hoshino/modules/cappuccilo_plugins"]
+	path = hoshino/modules/cappuccilo_plugins
+	url = https://github.com/pcrbot/cappuccilo_plugins.git
+[submodule "hoshino/modules/pcr_wiki"]
+	path = hoshino/modules/pcr_wiki
+	url = https://github.com/pcrbot/pcr-wiki.git
+[submodule "hoshino/modules/image_generate"]
+	path = hoshino/modules/image_generate
+	url = https://github.com/pcrbot/image-generate.git
+[submodule "hoshino/modules/xhl6666_groupmaster/group_manager"]
+	path = hoshino/modules/xhl6666_groupmaster/group_manager
+	url = https://github.com/pcrbot/group-manager.git

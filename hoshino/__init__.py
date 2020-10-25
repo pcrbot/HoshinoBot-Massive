@@ -27,7 +27,7 @@ def init() -> HoshinoBot:
 
     for module_name in config.MODULES_ON:
         nonebot.load_plugins(
-            os.path.join(os.path.dirname(__file__), 'modules', module_name),
+            os.path.join(os.path.dirname(__file__), 'modules', *module_name.split('.')),
             f'hoshino.modules.{module_name}')
 
     from . import msghandler
